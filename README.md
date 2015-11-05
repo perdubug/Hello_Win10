@@ -1,0 +1,3 @@
+# RPC_HelloSample_Win10
+This is a RPC sample originally from Win 7 SDK Samples(netds\rpc\hello). But it was not working on Win10 somehow, 
+some minor changes are needed...
